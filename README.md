@@ -1,4 +1,4 @@
-﻿# Claude Code Starter Templates
+# Claude Code Starter Templates
 
 Free, battle-tested CLAUDE.md templates to supercharge your Claude Code experience.
 
@@ -30,6 +30,8 @@ The full **Claude Code Starter Kit** includes:
 - **10 templates** (plus Unity Game, React Native, DevOps, Data Science, Monorepo, Open Source, Full-Stack SaaS)
 - **Memory System Blueprint** - how Claude Code memory actually works, including the 200-line limit most users do not know about
 - **Advanced Patterns** - session handoff, autonomous workflows, custom skills, manager protocol
+
+**[Get the full kit on Gumroad](https://bryman.gumroad.com/l/pfoyf)**
 
 ## License
 
